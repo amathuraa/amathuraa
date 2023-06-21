@@ -2,7 +2,10 @@
 
 ## About Me
 
-I'm a final year university student studying Data Science, with a passion for Finance and Data Analysis. I have a strong technical background in machine learning techniques and a love for problem-solving. I enjoy working in diverse teams to create actionable insights using Machine Learning tools and data visualization software.
+I'm a final year university student studying Data Science, with a passion for Finance and Data Analysis. I have a strong technical background in machine learning techniques and a love for problem-solving. I enjoy working in diverse teams to create actionable insights using Machine Learning tools and data visualization software.<br>
+### Here are some of the Consulting based projects I have worked on - [Consulting Projects Repo](https://github.com/amathuraa/Projects)<br>
+### Here are some of the Data Analytics and ML projects I have worked on - [Data & ML Repo](https://github.com/amathuraa/Data_analysis)<br>
+
 
 ## Technical Skills
 
