@@ -21,7 +21,7 @@ I'm a final year university student studying Data Science, with a passion for Fi
 
 ## Fun Fact
 
-Did you know that I once used machine learning to predict the gender of a person using their facial measurements. I trained a decision tree model using data on eyebrow length, eyelash length, forehead size, and nose pertrusion to classify the face as Masculine or Feminine. And guess what? My model was accurate on 23/24 friends I tested it on ( Sorry Eva :D)
+Did you know that I once used machine learning to predict the gender of a person using their facial measurements? I trained a decision tree model using data on eyebrow length, eyelash length, forehead size, and nose protrusion to classify the face as masculine or feminine. And guess what? My model was accurate for 23 out of the 24 friends I tested it on (sorry, Eva :D)
 
 ## Let's Connect
 
